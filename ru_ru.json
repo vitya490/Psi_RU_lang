@@ -20,7 +20,7 @@
   "psimisc.next_page": "Следующая страница",
   "psimisc.prev_page": "Предыдущая страница",
   "psimisc.config": "Конфигурация",
-  "psimisc.not_your_programmer": "Похоже, кто-то использует это. Наверное, лучше не использовать его.", // На доработку 
+  "psimisc.not_your_programmer": "Похоже, кто-то использует это. Наверное, лучше не использовать его.", // Доработать
   "psimisc.cant_use_programmer": "Ты понятия не имеешь, как управлять этим.",
   "psimisc.level_display": "Уровень %d",
   "psimisc.level_info": "Уровень %d - Очки уровня: %d",
@@ -71,7 +71,7 @@
   "block.psi.lit_white_psimetal_plate": "Светлая пластина текучего Пси-металла",
   "block.psi.ebony_psimetal_block": "Эбонитовый блок Пси-металла",
   "block.psi.ivory_psimetal_block": "Бисквитный блок Пси-металла",
-  "block.psi.conjured": "Вызвать блок", // На доработку 
+  "block.psi.conjured": "Вызвать блок", // Доработать
   "block.psi.psimetal_plate_white": "Светлая пластина Пси-металла",
   "block.psi.psimetal_plate_white_light": "Светлая текучая пластина Пси-металла",
   "item.psi.psidust": "Пси-пыль",
@@ -159,7 +159,7 @@
   "item.psi.exosuit_sensor_stress": "Exosuit Stress Sensor",
   "item.psi.exosuit_sensor_trigger": "Exosuit Detonation Sensor",
   "item.psi.vector_ruler": "Векторная рулетка",
-  "death.attack.psi-overload": "%s overflowed their Psionic Energy", // Доделать
+  "death.attack.psi-overload": "%s overflowed their Psionic Energy", // Доработать
   "psi.component.assembly": "Компонент",
   "psi.component.core": "Ядро",
   "psi.component.socket": "Ячейка памяти",
@@ -263,7 +263,7 @@
   "psi.spellpiece.selector_saved_vector": "Selector: Сохраненный Вектор",
   "psi.spellpiece.selector_saved_vector.desc": "Выбор сохраненного вектора из памяти УВЗ",
   "psi.spellpiece.selector_eidos_changelog": "Selector: Журнал Изменений",
-  "psi.spellpiece.selector_eidos_changelog.desc": "Выбирает позицию из журнала изменений",// Доработать
+  "psi.spellpiece.selector_eidos_changelog.desc": "Выбирает позицию из журнала изменений", // Доработать
   "psi.spellpiece.selector_nearby_charges": "Selector: Charge Count",
   "psi.spellpiece.selector_nearby_charges.desc": "Selects the number of charges near a given position",
   "psi.spellpiece.selector_nearby_players": "Selector: Ближайшие игроки",
@@ -405,10 +405,10 @@
   "psi.spellpiece.operator_vector_extract_sign": "Оператор: Вектор",
   "psi.spellpiece.operator_vector_extract_sign.desc": "Возвращает новый вектор с соответствующим знаком каждого векторного элемента",
   "psi.spellpiece.operator_closest_to_line": "Оператор: Ближе всего к линии",
-  "psi.spellpiece.operator_closest_to_line.desc": "Выберите ближайший объект к линейному сегменту", // ДОДЕЛАТЬ
+  "psi.spellpiece.operator_closest_to_line.desc": "Выберите ближайший объект к линейному сегменту", // Доработать
   "psi.spellpiece.operator_entity_health": "Оператор: Показатель здоровья",
   "psi.spellpiece.operator_entity_health.desc": "Получает текущий процент здоровья объекта",
-  "psi.spellpiece.operator_vector_absolute": "Оператор: Вектор Абсолют", // ДОДЕЛАТЬ
+  "psi.spellpiece.operator_vector_absolute": "Оператор: Вектор Абсолют", // Доработать
   "psi.spellpiece.operator_vector_absolute.desc": "Принимает абсолютное значение всех векторных значений и возвращает новый вектор",
   "psi.spellpiece.operator_entity_raycast": "Оператор: Луч до сущности",
   "psi.spellpiece.operator_entity_raycast.desc": "Создает луч из заданной позиции и возвращает первую найденную сущность",
@@ -416,13 +416,13 @@
   "psi.spellpiece.operator_block_light.desc": "Получает значение освещенности блока",
   "psi.spellpiece.operator_block_hardness.desc": "Получает значение твердости блока",
   "psi.spellpiece.operator_block_hardness": "Оператор: Твердость блока",
-  "psi.spellpiece.operator_block_comparator_strength": "Оператор: Блок-компаратор", // ДОДЕЛАТЬ
+  "psi.spellpiece.operator_block_comparator_strength": "Оператор: Блок-компаратор", // Доработать
   "psi.spellpiece.operator_block_comparator_strength.desc": "Возвращает степень компаратора, которой обладает блок",
-  "psi.spellpiece.operator_block_side_solidity": "Оператор: Жесткость стороны блока", // ДОДЕЛАТЬ
+  "psi.spellpiece.operator_block_side_solidity": "Оператор: Жесткость стороны блока", // Доработать
   "psi.spellpiece.operator_block_side_solidity.desc": "Определяет, является ли сторона блока твердой.", // Доработать. (прозрачность)
   "psi.spellpiece.operator_block_mining_level": "Оператор: Уровень добычи блока",
   "psi.spellpiece.operator_block_mining_level.desc": "Получает уровень добычи блока в указанной позиции",
-  "psi.spellpiece.operator_vector_piecewise_maximum": "Оператор: Вектор Кусочно-Максимальный", // ДОДЕЛАТЬ
+  "psi.spellpiece.operator_vector_piecewise_maximum": "Оператор: Вектор Кусочно-Максимальный", // Доработать
   "psi.spellpiece.operator_vector_piecewise_maximum.desc": "Построить вектор из наибольших компонентов входных данных",
   "psi.spellpiece.operator_vector_piecewise_minimum": "Оператор: Вектор кусочно-минимальный",
   "psi.spellpiece.operator_vector_piecewise_minimum.desc": "Построить вектор из наименьших компонентов входных данных",
@@ -440,7 +440,7 @@
   "psi.spellpiece.constant_wrapper.desc": "Обертка для константы для расчета статистики",
   "psi.spellpiece.connector": "Соединитель",
   "psi.spellpiece.connector.desc": "Соединяет вещи и вещи",
-  "psi.spellpiece.cross_connector": "Cross Connector", //Доделать
+  "psi.spellpiece.cross_connector": "Cross Connector", // Доработать
   "psi.spellpiece.cross_connector.desc": "Can connect two paths",
   "psi.spellpiece.error_suppressor": "Error Suppressor",
   "psi.spellpiece.error_suppressor.desc": "Suppresses errors thrown by the spell",
