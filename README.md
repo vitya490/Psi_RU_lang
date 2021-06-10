@@ -1,2 +1,3 @@
 # Psi_RU_lang
-Russian translation for Minecraft Psi mod
+[Logo](https://raw.githubusercontent.com/Vazkii/Psi/master/web/img/logo.png)
+Russian translation for Minecraft [Psi](https://github.com/Vazkii/Psi) mod
