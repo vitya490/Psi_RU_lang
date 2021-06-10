@@ -200,7 +200,7 @@
   "psi.event.low_hp": "\u00a7bСобытие\u00a77: Критическое здоровье",
   "psi.event.spell_detonate": "\u00a7bСобытие\u00a77: Детонация",
   "psi.programmer_reference0": "\u00a7bГорячие клавиши",
-  "psi.programmer_reference1": "Удалить кусочек: \u00a7bDelete",
+  "psi.programmer_reference1": "Удалить часть: \u00a7bDelete",
   "psi.programmer_reference2": "Очистить сетку: \u00a7b%1$s-Shift-Delete",
   "psi.programmer_reference3": "Сдвинуть сетку: \u00a7b%1$s + Arrow Keys",
   "psi.programmer_reference4": "Повернуть сетку: \u00a7b%1$s-Shift-Left/Right",
