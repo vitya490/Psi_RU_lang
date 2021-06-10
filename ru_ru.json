@@ -32,7 +32,7 @@
   "psimisc.wip": "Psi Beta | Not final!",
   "psimisc.bullet_type": "\u00a7bТип\u00a77: %s",
   "psimisc.bullet_cost": "\u00a7bМножитель стоимости\u00a77: %s%%",
-  "psimisc.level_up_info1": "Вы прошли этот групповой урок!", // На доработку 
+  "psimisc.level_up_info1": "Вы прошли обучение!", // На доработку 
   "psimisc.level_up_info2": "Отключите свой УВЗ и нажмите [%s], чтобы посмотреть следующий!",
   "psimisc.import_from_clipboard": "Импорт из буфера обмена",
   "psimisc.export_to_clipboard": "Экспорт из буфера обмена",
@@ -440,7 +440,7 @@
   "psi.spellpiece.constant_wrapper.desc": "Обертка для константы для расчета статистики",
   "psi.spellpiece.connector": "Соединитель",
   "psi.spellpiece.connector.desc": "Соединяет вещи и вещи",
-  "psi.spellpiece.cross_connector": "Cross Connector",
+  "psi.spellpiece.cross_connector": "Cross Connector", //Доделать
   "psi.spellpiece.cross_connector.desc": "Can connect two paths",
   "psi.spellpiece.error_suppressor": "Error Suppressor",
   "psi.spellpiece.error_suppressor.desc": "Suppresses errors thrown by the spell",
