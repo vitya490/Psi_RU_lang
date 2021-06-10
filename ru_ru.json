@@ -440,7 +440,7 @@
   "psi.spellpiece.constant_wrapper.desc": "Обертка для константы для расчета статистики",
   "psi.spellpiece.connector": "Соединитель",
   "psi.spellpiece.connector.desc": "Соединяет вещи и вещи",
-  "psi.spellpiece.cross_connector": "Cross Connector", //Доделать
+  "psi.spellpiece.cross_connector": "Cross Connector", // Дорабоать
   "psi.spellpiece.cross_connector.desc": "Can connect two paths",
   "psi.spellpiece.error_suppressor": "Error Suppressor",
   "psi.spellpiece.error_suppressor.desc": "Suppresses errors thrown by the spell",
