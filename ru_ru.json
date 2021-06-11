@@ -190,7 +190,7 @@
   "psi.bullet_type_grenade": "Метательная",
   "psi.bullet_type_charge": "Минирующая",
   "psi.bullet_type_mine": "Детонирующая",
-  "psi.event.none": "(No Event Handler)", // Доработать
+  "psi.event.none": "(Нет обработчика событий)", // Доработать??
   "psi.event.damage": "\u00a7bСобытие\u00a77: Урон",
   "psi.event.tick": "\u00a7bСобытие\u00a77: Tick", // Доработать
   "psi.event.jump": "\u00a7bСобытие\u00a77: Прыжок",
