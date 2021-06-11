@@ -472,7 +472,7 @@
   "psi.spellpiece.trick_blink.desc": "Рывок вперед",
   "psi.spellpiece.trick_mass_blink": "Trick: Массовый рывок",
   "psi.spellpiece.trick_mass_blink.desc": "Рывок всеми сущностями",
-  "psi.spellpiece.trick_mass_add_motion": "Trick: Массовое добавление движения", //Доработка
+  "psi.spellpiece.trick_mass_add_motion": "Trick: Массовое добавление движения", // Доработать
   "psi.spellpiece.trick_mass_add_motion.desc": "Добавляет движение ко всем сущностям в списке",
   "psi.spellpiece.trick_mass_exodus": "Trick: Массовое перемищение",
   "psi.spellpiece.trick_mass_exodus.desc": "Перемещает все объекты из списка объектов в целевую позицию",
@@ -480,7 +480,7 @@
   "psi.spellpiece.trick_move_block.desc": "Перемещает блок по заданному единичному осевому вектору",
   "psi.spellpiece.trick_move_block_sequence": "Trick: Переместить последовательность блоков",
   "psi.spellpiece.trick_move_block_sequence.desc": "Перемещает последовательность блоков по заданному единичному осевому вектору.",
-  "psi.spellpiece.trick_collapse_block": "Trick: Collapse Block",//Доработка
+  "psi.spellpiece.trick_collapse_block": "Trick: Collapse Block", // Доработать
   "psi.spellpiece.trick_collapse_block.desc": "Collapses a block, as if it were sand",
   "psi.spellpiece.trick_smite": "Trick: Разряд",
   "psi.spellpiece.trick_smite.desc": "Вызывает молнию в заданной точке",
@@ -520,37 +520,37 @@
   "psi.spellpiece.trick_wither.desc": "Применяется эффект иссушения",
   "psi.spellpiece.trick_ignite": "Trick: Поджечь",
   "psi.spellpiece.trick_ignite.desc": "Поджечь сущность",
-  "psi.spellpiece.trick_eidos_anchor": "Trick: Привязка Эйдоса", //Доработка
+  "psi.spellpiece.trick_eidos_anchor": "Trick: Привязка Эйдоса", // Доработать
   "psi.spellpiece.trick_eidos_anchor.desc": "Возвращает заклинателя в текущее положение по истечении заданного времени.",
-  "psi.spellpiece.trick_eidos_reversal": "Trick: Реверсирование Eidos",
+  "psi.spellpiece.trick_eidos_reversal": "Trick: Реверсирование Ейдоса",
   "psi.spellpiece.trick_eidos_reversal.desc": "Возвращает заклинателя назад во времени",
   "psi.spellpiece.trick_smelt_item": "Trick: Пережарка придмета",
   "psi.spellpiece.trick_smelt_item.desc": "Пережаривает придмет в его готовую версию",
   "psi.spellpiece.trick_smelt_block": "Trick: Переплавка блока",
-  "psi.spellpiece.trick_smelt_block.desc": "Выплавляет блок в его плавленую версию",
+  "psi.spellpiece.trick_smelt_block.desc": "Выплавляет блок в его выплавленную версию",
   "psi.spellpiece.trick_conjure_block": "Trick: Сотворить блок",
   "psi.spellpiece.trick_conjure_block.desc": "Создает хрупкий блок",
   "psi.spellpiece.trick_conjure_light": "Trick: Призвать свет",
   "psi.spellpiece.trick_conjure_light.desc": "Создает слабый свет",
   "psi.spellpiece.trick_conjure_block_sequence": "Trick: Сотворить последовательность блоков",
   "psi.spellpiece.trick_conjure_block_sequence.desc": "Создает последовательность хрупких блоков вдоль заданного вектора",
-  "psi.spellpiece.trick_switch_target_slot": "Trick: Switch Focus Slot (Hotbar)", //НИХУЯ НЕ ПОНЯТНО
+  "psi.spellpiece.trick_switch_target_slot": "Trick: Switch Focus Slot (Hotbar)", // НИХУЯ НЕ ПОНЯТНО
   "psi.spellpiece.trick_switch_target_slot.desc": "Changes the focused slot of this spell, to anywhere in the hotbar",
   "psi.spellpiece.trick_save_vector": "Trick: Сохранить вектор",
   "psi.spellpiece.trick_save_vector.desc": "Сохранение вектора в памяти УВЗ",
-  "psi.spellpiece.trick_play_sound": "Trick: Играет нота",
+  "psi.spellpiece.trick_play_sound": "Trick: Воспроизвести ноту",
   "psi.spellpiece.trick_play_sound.desc": "Воспроизводит звук нотного блока",
   "psi.spellpiece.trick_break_loop": "Trick: Разрыв петли",
   "psi.spellpiece.trick_break_loop.desc": "Останавливает цикл, если цель находится в пределах (-1, 1) исключительно",
   "psi.spellpiece.trick_detonate": "Trick: Детонация",
-  "psi.spellpiece.trick_detonate.desc": "Взрывает все резанаторы заклинаний в пределах 32 блоков от точки вызова",
-  "psi.spellpiece.trick_till": "Trick: Till", //НИХУЯ НЕ ПОНЯТНО
+  "psi.spellpiece.trick_detonate.desc": "Взрывает все резонаторы заклинаний в пределах 32 блоков от точки вызова",
+  "psi.spellpiece.trick_till": "Trick: Till", // НИХУЯ НЕ ПОНЯТНО
   "psi.spellpiece.trick_till.desc": "Tills a block",
-  "psi.spellpiece.trick_till_sequence": "Trick: Till Sequence",//НИХУЯ НЕ ПОНЯТНО
+  "psi.spellpiece.trick_till_sequence": "Trick: Till Sequence", // НИХУЯ НЕ ПОНЯТНО
   "psi.spellpiece.trick_till_sequence.desc": "Tills a sequence of blocks along the given vector",
   "psi.spellpiece.trick_broadcast": "Trick: Радиопередача",
   "psi.spellpiece.trick_broadcast.desc": "Передает число в заданном канале на близлежащие УВЗ",
-  "psi.spellpiece.trick_change_slot": "Trick: Slot Change (Inventory)",//Доработка
+  "psi.spellpiece.trick_change_slot": "Trick: Slot Change (Inventory)", // Доработать
   "psi.spellpiece.trick_change_slot.desc": "Changes the building slot to one of the 36 inventory slots.",
   "psi.spellpiece.trick_smelt_block_sequence": "Trick: Smelt Block Sequence",
   "psi.spellpiece.trick_smelt_block_sequence.desc": "Smelts blocks in a defined direction starting in a given position",
