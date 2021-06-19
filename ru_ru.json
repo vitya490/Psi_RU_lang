@@ -159,7 +159,7 @@
   "item.psi.exosuit_sensor_stress": "Exosuit Stress Sensor",
   "item.psi.exosuit_sensor_trigger": "Exosuit Detonation Sensor",
   "item.psi.vector_ruler": "Векторная рулетка",
-  "death.attack.psi-overload": "%s overflowed their Psionic Energy", // Доработать
+  "death.attack.psi-overload": "%s переполнили их псионическую энергию", // Доработать
   "psi.component.assembly": "Корпус",
   "psi.component.core": "Ядро",
   "psi.component.socket": "Ячейка памяти",
@@ -178,7 +178,7 @@
   "psi.spellstat.potency": "Сила",
   "psi.spellstat.potency.desc": "Сила заклинания",
   "psi.spellstat.cost": "Стоимость",
-  "psi.spellstat.cost.desc": "Стоимость Пси на кастинг", // Доработать
+  "psi.spellstat.cost.desc": "Стоимость Пси на выполнение", // Доработать
   "psi.spellstat.projection": "Резонатор",
   "psi.spellstat.projection.desc": "Количество резонаторов",
   "psi.spellstat.bandwidth": "Пропускная способность",
@@ -224,20 +224,20 @@
   "psi.programmer_reference22": "Выбор мода: \u00a7b@(name)",
   "psi.spellpiece.selector_caster": "Селектор: Заклинатель",
   "psi.spellpiece.selector_caster.desc": "Выбирает человека, накладывающего заклинание",
-  "psi.spellpiece.selector_focal_point": "Селектор: Focal Point", // Доработать
-  "psi.spellpiece.selector_focal_point.desc": "Selects the Focal Point Entity of this spell",
-  "psi.spellpiece.selector_nearby_items": "Селектор: Nearby Items",
-  "psi.spellpiece.selector_nearby_items.desc": "Selects items near the given position",
-  "psi.spellpiece.selector_nearby_living": "Селектор: Nearby Living",
-  "psi.spellpiece.selector_nearby_living.desc": "Selects living beings near the given position",
-  "psi.spellpiece.selector_nearby_enemies": "Селектор: Nearby Enemies",
-  "psi.spellpiece.selector_nearby_enemies.desc": "Selects enemies near the given position",
-  "psi.spellpiece.selector_nearby_animals": "Селектор: Nearby Animals",
-  "psi.spellpiece.selector_nearby_animals.desc": "Selects animals near the given position",
-  "psi.spellpiece.selector_nearby_projectiles": "Селектор: Nearby Projectiles",
-  "psi.spellpiece.selector_nearby_projectiles.desc": "Selects projectiles near the given position",
+  "psi.spellpiece.selector_focal_point": "Селектор: Координатор", // Доработать
+  "psi.spellpiece.selector_focal_point.desc": "Выбирает Фокусную Сущность этого заклинания",
+  "psi.spellpiece.selector_nearby_items": "Селектор: Близлежащие Предметы",
+  "psi.spellpiece.selector_nearby_items.desc": "Выбирает предметы рядом с заданной позицией",
+  "psi.spellpiece.selector_nearby_living": "Селектор: Ближайшая жизнь",
+  "psi.spellpiece.selector_nearby_living.desc": "Выбирает живых существ около заданной позиции",
+  "psi.spellpiece.selector_nearby_enemies": "Селектор: Ближайшие враги",
+  "psi.spellpiece.selector_nearby_enemies.desc": "Выбирает врагов около заданной позиции",
+  "psi.spellpiece.selector_nearby_animals": "Селектор: Ближайшие животные",
+  "psi.spellpiece.selector_nearby_animals.desc": "Выбирает животных, находящихся рядом с заданным положением",
+  "psi.spellpiece.selector_nearby_projectiles": "Селектор: Ближайшие снаряды",
+  "psi.spellpiece.selector_nearby_projectiles.desc": "Выбирает снаряды рядом с заданной позицией",
   "psi.spellpiece.selector_nearby_smeltables": "Селектор: Ближайщие печи",
-  "psi.spellpiece.selector_nearby_smeltables.desc": "Selects smeltable items near the given position",
+  "psi.spellpiece.selector_nearby_smeltables.desc": "Выбирает плавящиеся предметы рядом с заданной позицией",
   "psi.spellpiece.selector_loopcast_index": "Селектор: Индекс циклов",
   "psi.spellpiece.selector_loopcast_index.desc": "Выводит количество выполненых циклов",
   "psi.spellpiece.selector_block_broken": "Селектор: Блок Сломан",
@@ -246,8 +246,8 @@
   "psi.spellpiece.selector_block_side_broken.desc": "Выбирает с какой стороны блок был сломан (для Инстументов)", // Доработать
   "psi.spellpiece.selector_attack_target": "Селектор: Цель Атаки",
   "psi.spellpiece.selector_attack_target.desc": "Выбирает сущность, атакованную заклинателем",
-  "psi.spellpiece.selector_sneak_status": "Селектор: Sneak Status",
-  "psi.spellpiece.selector_sneak_status.desc": "Selects if the caster is sneaking (1 if no, 0 if yes)",
+  "psi.spellpiece.selector_sneak_status": "Селектор: Скрытый статус",
+  "psi.spellpiece.selector_sneak_status.desc": "Выбирает, крадется ли заклинатель (1, если нет, 0, если да)",
   "psi.spellpiece.selector_time": "Селектор: Время",
   "psi.spellpiece.selector_time.desc": "Выбирает внутреннее время УВЗ (в тиках)",
   "psi.spellpiece.selector_attacker": "Селектор: Атакующий",
@@ -450,7 +450,7 @@
   "psi.spellpiece.trick_debug.desc": "Для тестирования. Выводит цель",
   "psi.spellpiece.trick_delay": "Trick: Задержка",
   "psi.spellpiece.trick_delay.desc": "Задерживает заклинание на количество пройденных тиков",
-  "psi.spellpiece.trick_die": "Trick: Die",
+  "psi.spellpiece.trick_die": "Trick: Угасание",
   "psi.spellpiece.trick_die.desc": "Останавливает выполнение заклинания, если цель находится в пределах (-1, 1) исключительно",
   "psi.spellpiece.trick_evaluate": "Trick: Оценить",
   "psi.spellpiece.trick_evaluate.desc": "Оценивает значение. Ничего не делает с этим",
@@ -534,8 +534,8 @@
   "psi.spellpiece.trick_conjure_light.desc": "Создает слабый свет",
   "psi.spellpiece.trick_conjure_block_sequence": "Trick: Сотворить последовательность блоков",
   "psi.spellpiece.trick_conjure_block_sequence.desc": "Создает последовательность хрупких блоков вдоль заданного вектора",
-  "psi.spellpiece.trick_switch_target_slot": "Trick: Switch Focus Slot (Hotbar)", // НИХУЯ НЕ ПОНЯТНО
-  "psi.spellpiece.trick_switch_target_slot.desc": "Changes the focused slot of this spell, to anywhere in the hotbar",
+  "psi.spellpiece.trick_switch_target_slot": "Trick: Слот переключения фокуса (панель быстрого доступа)", // НИХУЯ НЕ ПОНЯТНО
+  "psi.spellpiece.trick_switch_target_slot.desc": "Изменяет сосредоточены слот заклинания в любое место на панели быстрого доступа.",
   "psi.spellpiece.trick_save_vector": "Trick: Сохранить вектор",
   "psi.spellpiece.trick_save_vector.desc": "Сохранение вектора в памяти УВЗ",
   "psi.spellpiece.trick_play_sound": "Trick: Воспроизвести ноту",
@@ -550,14 +550,14 @@
   "psi.spellpiece.trick_till_sequence.desc": "Tills a sequence of blocks along the given vector",
   "psi.spellpiece.trick_broadcast": "Trick: Радиопередача",
   "psi.spellpiece.trick_broadcast.desc": "Передает число в заданном канале на близлежащие УВЗ",
-  "psi.spellpiece.trick_change_slot": "Trick: Slot Change (Inventory)", // Доработать
-  "psi.spellpiece.trick_change_slot.desc": "Changes the building slot to one of the 36 inventory slots.",
+  "psi.spellpiece.trick_change_slot": "Trick: Смена слота (инвентарь)", 
+  "psi.spellpiece.trick_change_slot.desc": "Изменяет слот здания на один из 36 ячеек инвентаря.", // Доработать ЕБЕНЬ
   "psi.spellpiece.trick_smelt_block_sequence": "Trick: Выплавляет последовательность блоков",
   "psi.spellpiece.trick_smelt_block_sequence.desc": "Выплавляет блоки в определенном направлении, начиная с заданного положения.",
   "psi.spellpiece.trick_collapse_block_sequence": "Trick: Collapse Block Sequence",
   "psi.spellpiece.trick_collapse_block_sequence.desc": "Collapses a sequence of blocks, as if they were sand",
-  "psi.spellpiece.trick_debug_spamless": "Trick: Channeled Debug", // Доработать
-  "psi.spellpiece.trick_debug_spamless.desc": "Prints out the target, replacing any previous prints with the same number",
+  "psi.spellpiece.trick_debug_spamless": "Trick: Отладка каналов", // Доработать ЕБЕНЬ
+  "psi.spellpiece.trick_debug_spamless.desc": "Распечатывает цели, заменяя любые предыдущие печатает с тем же номером",
   "psi.spellpiece.trick_night_vision": "Trick: Ночное зрение",
   "psi.spellpiece.trick_night_vision.desc": "Применяется эффект ночного зрения",
   "psi.spellpiece.trick_particle_trail": "Trick: След частиц",
@@ -600,7 +600,7 @@
   "psi.spellparam.time": "Время",
   "psi.spellparam.constant": "Константа",
   "psi.spellparam.shift": "Shift", // Доработать
-  "psi.spellparam.slot": "Slot", // Доработать
+  "psi.spellparam.slot": "Слот", // Доработать
   "psi.spellparam.base": "Base",
   "psi.spellparam.vector": "Вектор",
   "psi.spellparam.axis": "Ось",
@@ -613,7 +613,7 @@
   "psi.spellparam.ray_end": "Конец луча",
   "psi.spellparam.ray_start": "Начало луча",
   "psi.spellparam.fallback": "Резерв",
-  "psi.datatype.void": "None", // Доработать
+  "psi.datatype.void": "Нет", // Доработать None
   "psi.datatype.any": "Любое",
   "psi.datatype.double": "Число ", // Доработать
   "psi.datatype.integer": "Целое число",
@@ -734,7 +734,7 @@
   "advancement.psi:ivory_pickup.desc": "Трансмутируйте your вашу первую Биквитную материю из Кварца",
   "advancement.psi:encyclopaedia_psionica": "Положи это на мой планшет",
   "advancement.psi:encyclopaedia_psionica.desc": "Создайте Энциклопедию Псионика, Ваш путеводитель по всему Пси",
-  "psi.book.subtitle": "Spellslinging 101", // Доработать
+  "psi.book.subtitle": "Заклинание 101", // Доработать
   "psi.book.name": "Энциклопедия Псионика",
   "psi.book.landing_text": "$(thing)Пси$(0) является модом о создании $(thing)Заклинаний$(0) ограничения которых определяются только вашей собственной изобретательностью. Эта книга содержит все знания, необходимые для того, чтобы стать экспертом в области заклинания.$(p)(Работа над этой книгой продолжается. Вы можете найти старые обучающие записи в разделе «Устаревшие записи».)",
   "psi.book.category.basics": "Основы",
