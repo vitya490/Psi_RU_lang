@@ -224,7 +224,7 @@
   "psi.programmer_reference22": "Выбор мода: \u00a7b@(name)",
   "psi.spellpiece.selector_caster": "Селектор: Заклинатель",
   "psi.spellpiece.selector_caster.desc": "Выбирает человека, накладывающего заклинание",
-  "psi.spellpiece.selector_focal_point": "Селектор: Focal Point",
+  "psi.spellpiece.selector_focal_point": "Селектор: Focal Point", // Доработать
   "psi.spellpiece.selector_focal_point.desc": "Selects the Focal Point Entity of this spell",
   "psi.spellpiece.selector_nearby_items": "Селектор: Nearby Items",
   "psi.spellpiece.selector_nearby_items.desc": "Selects items near the given position",
@@ -600,7 +600,7 @@
   "psi.spellparam.time": "Время",
   "psi.spellparam.constant": "Константа",
   "psi.spellparam.shift": "Shift", // Доработать
-  "psi.spellparam.slot": "Slot",
+  "psi.spellparam.slot": "Slot", // Доработать
   "psi.spellparam.base": "Base",
   "psi.spellparam.vector": "Вектор",
   "psi.spellparam.axis": "Ось",
@@ -608,12 +608,12 @@
   "psi.spellparam.channel": "Канал",
   "psi.spellparam.instrument": "Инструмент",
   "psi.spellparam.volume": "Громкость",
-  "psi.spellparam.pitch": "Pitch",
+  "psi.spellparam.pitch": "Pitch", // Доработать
   "psi.spellparam.mask": "Образец",
   "psi.spellparam.ray_end": "Конец луча",
   "psi.spellparam.ray_start": "Начало луча",
   "psi.spellparam.fallback": "Резерв",
-  "psi.datatype.void": "None",
+  "psi.datatype.void": "None", // Доработать
   "psi.datatype.any": "Любое",
   "psi.datatype.double": "Число ", // Доработать
   "psi.datatype.integer": "Целое число",
@@ -662,7 +662,7 @@
   "psi.spellerror.no_message": "ОШИБКА: УВЗ не принял транслируемое сообщение.",
   "psi.spellerror.comparator": "ОШИБКА: 'Компараторы' могут измерять только в 4-х основных направлениях.",
   "psi.spellerror.cad_casting_only": "ОШИБКА: этот навык должен быть реализован из УВЗ.",
-  "command.psi.learn.usage": "/psi-learn <группа> [игрок]", // Доработать
+  "command.psi.learn.usage": "/psi-learn <группа> [игрок]",
   "command.psi.learn.success": "Успешно изучено %s %s",
   "command.psi.learn.success.all": "Успешно изучил %s из Пси",
   "command.psi.learn.should_not": "%s уже известно %s",
@@ -685,7 +685,7 @@
   "psi.numbers_intro": "Числа 101",
   "psi.vectors_intro": "Векторы 101",
   "psi.entities_intro": "Сущности 101",
-  "psi.projectiles": "Alternative Casting",
+  "psi.projectiles": "Alternative Casting", // Доработать
   "psi.block_works": "Blockworks", // Блокировки
   "psi.infusion": "Трансмутация пси-металла",
   "psi.movement": "Движение вперед",
@@ -696,11 +696,11 @@
   "psi.tool_casting": "Tool Casting", //ХУЙ ЗНАЕТ
   "psi.positive_effects": "Положительный эффекты",
   "psi.negative_effects": "Отрицательные эффекты",
-  "psi.exosuit_casting": "Exosuit Casting",
+  "psi.exosuit_casting": "Exosuit Casting", // Доработать
   "psi.trignometry": "Тригонометрия",
   "psi.smeltery": "Плавильня",
   "psi.flow_control": "Управление потоком",
-  "psi.block_conjuration": "Block Conjuration",
+  "psi.block_conjuration": "Block Conjuration", // Доработать
   "psi.eidos_ceversal": "Манипуляции с Эйдосом",
   "psi.detection_dynamics": "Обнаружение и наведение",
   "psi.memory_management": "Управление памятью",
