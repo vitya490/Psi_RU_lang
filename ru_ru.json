@@ -710,7 +710,7 @@
   "psi.fake_level_psidust": "Трансмутация пси-пыли",
   "jei.psi.category.trick": "Трансмутация",
   "jei.psi.spell_copy": "Копирует заклинание",
-  "psi.subtitle.book": "Сладкий Алексей играет на расстоянии", //ХУЙ ПОЙМИ "Sweet Alexum plays in the distance"
+  "psi.subtitle.book": "Сладкий Алексей играет на расстоянии", //ХУЙ ПОЙМИ "Sweet Alexum plays in the distance"   
   "_comment": "Книга дрянь", //ЯНДЕКС ПЕРЕВЕЛ (Book stuff)
   "advancement.psi:iron_cad_pickup": "Моя прелесть", //отсылка на песню Sweet Bod если дословно моя крошка. Адоптировал
   "advancement.psi:iron_cad_pickup.desc": "Создайте Железный корпус УВЗ",
@@ -719,9 +719,9 @@
   "advancement.psi:psimetal_assembly_pickup": "Красиво лучше", //переделать PSIghtly Better в (чуть лучше) но на наш монер
   "advancement.psi:psimetal_assembly_pickup.desc": "Создайте корпус УВЗ из Пси-металла",
   "advancement.psi:ebony_assembly_pickup": "Сильная и толстая",
-  "advancement.psi:ebony_assembly_pickup.desc": "Создайте Эбонитовый корпус УВЗ из Пси-металла", // угольный графитный Антроцитовый
+  "advancement.psi:ebony_assembly_pickup.desc": "Создайте Эбонитовый корпус УВЗ из Пси-металла", // угольный графитный Антроцитовый  Антрацит 
   "advancement.psi:ivory_assembly_pickup": "Изящная и сексуальная", //Сладенький и Изысканный или пусть едят пирожные
-  "advancement.psi:ivory_assembly_pickup.desc": "Создайте Бисквитный корпус УВЗ из Пси-металла",
+  "advancement.psi:ivory_assembly_pickup.desc": "Создайте Бисквитный корпус УВЗ из Пси-металла", // Саломит Кварцит
   "advancement.psi:psidust": "...Не создается?",
   "advancement.psi:psidust.desc": "Создайте ваш первый кусочек Пси-пыли",
   "advancement.psi:psimetal_pickup": "Сплав благоговения",
